@@ -1,4 +1,3 @@
 # Keras_Regression_Deep_Learning_NN
-Try to do Regression via Deep_Learning, using Keras. Since so much hypes on deep learning. Deep learning on regression might be overkill. Let's do this.
+I also know how to do regression and classification via sciki-learn. But how about Deep_Learning? I have experience using Keras to bulid CNN for images. Now, I will explore using Keras to build regression and classification models to solve numerical problems (not images). Let's do this.
 
-Also added bonus, classification via deep learning.
